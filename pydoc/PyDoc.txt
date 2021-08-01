@@ -1,0 +1,15 @@
+"""
+-don't have to import
+python -m pydoc pow
+
+-search a module for a keyword
+-python -m pydoc -k ftp
+
+start server on port 314
+python -m pydoc -p 314
+
+python -m pydoc -b will find an available port
+
+python -m pydoc -w json to generate html
+
+"""
