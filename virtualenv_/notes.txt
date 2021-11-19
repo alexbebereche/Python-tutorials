@@ -1,0 +1,9 @@
+confine the libraries to a specific project
+make it shareable and portable
+pip install virtualenv
+
+virtualenv env
+source in linux...
+in windows: env\Scripts\activate to activate the virtualenv
+
+now, pip install selenium will be just in this folder
